@@ -14,4 +14,4 @@ chain = prompt | llm
 # Example usage
 question = input("Enter your question: ")
 answer = chain.invoke({"question": question})
-print(answer)
+# print(answer)
